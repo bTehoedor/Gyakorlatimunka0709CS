@@ -1,0 +1,16 @@
+body{
+    background-image: url("../Tetszőleges téma/4935102-shin-megami-tensei-if-playstation-front-cover.jpg");
+    background-repeat: repeat-y;
+    background-size: cover;
+    font-size: 30px !important;
+}
+.bgneutra{
+    background: #7d75a3 !important;
+    opacity: 90%;
+    border: 5px dashed #978ec2;
+    border-radius: var(--bs-border-radius-xxl) !important;
+}
+.emphasise{
+    background: #7d75a3 !important;
+    border: 5px solid #000000;
+}

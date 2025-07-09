@@ -1,0 +1,40 @@
+img{
+    width: 400px;
+}
+header{
+    max-width: 60%;
+}
+a{
+    font-size: 30px !important;
+    font-weight: bold;
+}
+span{
+    color: #271ea3;
+    font-style: italic;
+}
+p{
+    font-size: 20px;
+}
+.tomor{
+    width: 85%;
+    text-align: justify;
+}
+.forras{
+    font-size: 8px !important;
+}
+body{
+    color: black;
+    font-family:'Times New Roman', Times, serif;
+}
+.bgneutra{
+    background: #9E9C9C !important;
+    opacity: 90%;
+    border: 5px dashed #7c7c7c;
+}
+.emphasise{
+    background: #9E9C9C !important;
+    border: 5px solid #000000;
+}
+
+
+
