@@ -25,6 +25,7 @@ p{
 body{
     color: black;
     font-family:'Times New Roman', Times, serif;
+    min-width: 100%;
 }
 .bgneutra{
     background: #9E9C9C !important;
